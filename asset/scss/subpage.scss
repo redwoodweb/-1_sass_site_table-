@@ -57,6 +57,10 @@
         border-top: 1px solid $borderColorPrimary;
       }
 
+      &.kakao_map{
+        margin-top: 20px;
+      }
+
       table{
         margin-top: 50px;
         & + .gbtn{
